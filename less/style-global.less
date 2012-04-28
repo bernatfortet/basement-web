@@ -91,6 +91,11 @@
 		.ignorecase{ text-transform:none;}
 		.tcenter{ text-align:center;}
 
+		// Font stacks
+		@serif: "Georgia", Cambria, "Times New Roman", Times, serif;
+		@sans-serif: "Helvetica Neue", "HelveticaNeue", helvetica, sans-serif;
+		@monospace: Monaco, Consolas, monospace;
+
 	//FX ===================================================================
 
 		//Transformations
@@ -122,15 +127,17 @@
 			   -moz-box-shadow:@params;
 					box-shadow:@params;
 		}
-		.bs( @params, @params2 ){
-			-webkit-box-shadow:@params, @params2;
-			   -moz-box-shadow:@params, @params2;
-					box-shadow:@params, @params2;
+		.bs( @params1, @params2 ){
+			@params: @params1, @params2;
+			-webkit-box-shadow:@params;
+			   -moz-box-shadow:@params;
+					box-shadow:@params;
 		}
-		.bs( @params, @params2, @params3 ){
-			-webkit-box-shadow:@params, @params2, @params3;
-			   -moz-box-shadow:@params, @params2, @params3;
-					box-shadow:@params, @params2, @params3;
+		.bs( @params1, @params2, @params3 ){
+			@params: @params1, @params2, @params3;
+			-webkit-box-shadow:@params;
+			   -moz-box-shadow:@params;
+					box-shadow:@params;
 		}
 
 		//Gradient
