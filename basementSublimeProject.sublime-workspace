@@ -136,35 +136,43 @@
 	"buffers":
 	[
 		{
-			"file": "/F/Dropbox/Bernat/Projects/Webs/singularminds.com/projectSingularMinds.sublime-project",
+			"file": "app-raw/models/aModel.coffee",
 			"settings":
 			{
-				"buffer_size": 499,
-				"line_ending": "Unix"
+				"buffer_size": 60,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app-raw/controllers/app.coffee",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app-raw/controllers/controllers.coffee",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/main.js",
+			"settings":
+			{
+				"buffer_size": 1018,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "index.jade",
 			"settings":
 			{
-				"buffer_size": 1787,
+				"buffer_size": 754,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "less/style-global.less",
-			"settings":
-			{
-				"buffer_size": 7920,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "less/reset.less",
-			"settings":
-			{
-				"buffer_size": 3246,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -240,13 +248,29 @@
 	},
 	"file_history":
 	[
+		"/F/Dropbox/Bernat/Projects/Webs/basement/meta.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/index.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/metaFacebook.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/app-raw/models/model.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/app-raw/views/views.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/app-raw/controllers/controllers.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/app-raw/controllers/ctroller.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/app-raw/controllers/authors.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/less/style.less",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/app-raw/views/view.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/app-raw/views/tweet.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/less/appName.less",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/less/app.less",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/less/reset.less",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/less/style-global.less",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/index.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/projectSingularMinds.sublime-project",
 		"/C/Users/BernatFortet/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
 		"/F/Dropbox/Bernat/Projects/Webs/basement/basementSublimeProject.sublime-project",
 		"/C/Users/BernatFortet/Links/basement.lnk",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/controllers/app.coffee",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app/main.js",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/index.jade",
-		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/index.jade",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/models/author.coffee",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/models/image.coffee",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/controllers/images.coffee",
@@ -258,7 +282,6 @@
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/less/style.less",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/app.js",
 		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/Cacerolo.sublime-project",
-		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/projectSingularMinds.sublime-project",
 		"/F/Dropbox/Bernat/Projects/Webs/yourshelf.com/public/app/app.js",
 		"/F/Dropbox/Bernat/Projects/Webs/yourshelf.com/public/index.jade",
 		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/index.jade3",
@@ -352,22 +375,7 @@
 		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/roles.coffee",
 		"/C/Users/kotoc/AppData/Roaming/Sublime Text 2/Packages/BernatColorScheme/BernatColorScheme.tmTheme",
 		"/C/Users/kotoc/Desktop/KTools/Ktools.sublime-workspace",
-		"/C/Users/kotoc/Desktop/KTools/Ktools.sublime-project",
-		"/C/Users/kotoc/Desktop/KTools/Gemfile.lock",
-		"/X/sublime/Packages/User/Less.sublime-build",
-		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/sections/projects.jade",
-		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/sections.coffee",
-		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/projects.coffee",
-		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/seasons.coffee",
-		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/episodes.coffee",
-		"/C/Users/kotoc/Desktop/KTools/app/views/index/index.html",
-		"/C/Users/kotoc/Desktop/KTools/Gemfile",
-		"/C/Users/kotoc/Desktop/KTools/config/application.rb",
-		"/C/Users/kotoc/Desktop/KTools/app/views/layouts/application.html.erb",
-		"/C/Users/kotoc/Desktop/KTools/public/app/controllers/base/headerController.js",
-		"/C/Users/kotoc/Desktop/KTools/public/index.jade",
-		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sequences.coffee",
-		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/episode_sequences.coffee"
+		"/C/Users/kotoc/Desktop/KTools/Ktools.sublime-project"
 	],
 	"find":
 	{
@@ -546,31 +554,30 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/F/Dropbox/Bernat/Projects/Webs/singularminds.com/projectSingularMinds.sublime-project",
+					"file": "app-raw/models/aModel.coffee",
 					"settings":
 					{
-						"buffer_size": 499,
+						"buffer_size": 60,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								160,
-								160
+								60,
+								60
 							]
 						],
 						"settings":
 						{
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -580,25 +587,25 @@
 				},
 				{
 					"buffer": 1,
-					"file": "index.jade",
+					"file": "app-raw/controllers/app.coffee",
 					"settings":
 					{
-						"buffer_size": 1787,
+						"buffer_size": 299,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								187,
-								187
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -609,26 +616,25 @@
 				},
 				{
 					"buffer": 2,
-					"file": "less/style-global.less",
+					"file": "app-raw/controllers/controllers.coffee",
 					"settings":
 					{
-						"buffer_size": 7920,
+						"buffer_size": 123,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								186,
-								186
+								123,
+								123
 							]
 						],
 						"settings":
 						{
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CoffeeScript/Syntaxes/CoffeeScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -638,28 +644,58 @@
 				},
 				{
 					"buffer": 3,
-					"file": "less/reset.less",
+					"file": "app/main.js",
 					"settings":
 					{
-						"buffer_size": 3246,
+						"buffer_size": 1018,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1510,
-								1510
+								251,
+								251
 							]
 						],
 						"settings":
 						{
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 567.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.jade",
+					"settings":
+					{
+						"buffer_size": 754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -698,10 +734,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 108.0
-	},
 	"output.sftp":
 	{
 		"height": 0.0
