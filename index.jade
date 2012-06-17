@@ -1,0 +1,38 @@
+!!! 5
+html(lange="en")
+
+	head
+		append meta
+
+		//Favicon
+		link( rel="shortcut icon", href="/favicon.ico")
+		link( rel="apple-touch-icon", href="/apple-touch-icon.png")
+
+		//Css 
+		link( rel="stylesheet", type="text/css", media="screen", href="../css/reset.css")
+		link( rel="stylesheet", type="text/css", media="screen", href="css/style.css")
+
+		//App Javascript
+		script( data-main="app/main.js", src="app/libs/require-jquery.min.js")
+
+		//Other Javascript
+		script( src="app/libs/ga.js")
+
+		//RSS TODO
+
+	body.home
+		#WebsiteApp
+			#Views
+			.wrapper#Wrapper
+				.header
+					.logo logo here
+				.nav
+					a link 1
+					a link 2
+					a link 3
+				.content
+					section section content 1
+					section section content 2
+
+				.footer
+					p copyright here

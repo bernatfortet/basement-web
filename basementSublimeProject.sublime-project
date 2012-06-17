@@ -1,0 +1,34 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"cmd",
+				"/c",
+				"lessc > $project_path/css/style.css --yui -compress",
+				"$project_path/less/style.less"
+			],
+			"name": "Ktools less Build",
+			"selector": "source.css.less"
+		},
+		{
+			"cmd":
+			[
+				"cmd",
+				"/c",
+				"jade",
+				"--pretty",
+				"$project_path/index.jade"
+			],
+			"name": "Ktools Jade Build",
+			"selector": "source.jade"
+		}
+	],
+	"folders":
+	[
+		{
+			"path": "/F/Dropbox/Bernat/Projects/Webs/basement"
+		}
+	]
+}

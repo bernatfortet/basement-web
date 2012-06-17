@@ -1,0 +1,1252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"phase",
+				"phase_type_id"
+			],
+			[
+				"sw",
+				"switch"
+			],
+			[
+				"bac",
+				"background	css-background"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"fetch",
+				"fetchTasks"
+			],
+			[
+				"ad",
+				"addAllRows"
+			],
+			[
+				"add",
+				"addPhase"
+			],
+			[
+				"task",
+				"taskType"
+			],
+			[
+				"fetchU",
+				"fetchUserPhases"
+			],
+			[
+				"getState",
+				"getStateNameById"
+			],
+			[
+				"state",
+				"state_name"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Phase",
+				"PhaseButton"
+			],
+			[
+				"Task",
+				"TaskAnimation"
+			],
+			[
+				"curr",
+				"current_user_session"
+			],
+			[
+				"Dj",
+				"djWHEAT"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ba",
+				"background-url	css-background-url"
+			],
+			[
+				"overl",
+				"overflow"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"tas",
+				"task"
+			],
+			[
+				"tim",
+				"timeSinceCreation"
+			],
+			[
+				"timesa",
+				"timestamp"
+			],
+			[
+				"scr",
+				"scripts"
+			],
+			[
+				"CO",
+				"CommentsList"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"border",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/Dropbox/Bernat/Projects/Webs/singularminds.com/projectSingularMinds.sublime-project",
+			"settings":
+			{
+				"buffer_size": 499,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.jade",
+			"settings":
+			{
+				"buffer_size": 1787,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "less/style-global.less",
+			"settings":
+			{
+				"buffer_size": 7920,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/reset.less",
+			"settings":
+			{
+				"buffer_size": 3246,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 112.0,
+		"selected_items":
+		[
+			[
+				"fetch",
+				"Fetch: Manage remote files"
+			],
+			[
+				"fet",
+				"Fetch"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"JSLint: Run JSLint"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 310.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/BernatFortet/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/F/Dropbox/Bernat/Projects/Webs/basement/basementSublimeProject.sublime-project",
+		"/C/Users/BernatFortet/Links/basement.lnk",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/controllers/app.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app/main.js",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/index.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/index.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/models/author.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/models/image.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/controllers/images.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/controllers/authors.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/app-raw/models/tweet.coffee",
+		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/app/models/tweet.js",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/models/author",
+		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/app-raw/app.js",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/less/style.less",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/app-raw/app.js",
+		"/F/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/Cacerolo.sublime-project",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/projectSingularMinds.sublime-project",
+		"/F/Dropbox/Bernat/Projects/Webs/yourshelf.com/public/app/app.js",
+		"/F/Dropbox/Bernat/Projects/Webs/yourshelf.com/public/index.jade",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/index.jade3",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/public/index.jade2",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/Gemfile",
+		"/C/Users/kotoc/Desktop/KTools/db/seeds.rb",
+		"/F/Dropbox/Bernat/Projects/Webs/singularminds.com/db/seeds.rb",
+		"/D/Dropbox/Bernat/Projects/Webs/singularminds.com/config/application.rb",
+		"/C/Users/kotoc/Desktop/KTools/db/migrate/20120501132835_add_user_id_to_conversation.rb",
+		"/C/Users/kotoc/Desktop/KTools/db/migrate/20120427111902_create_priorities.rb",
+		"/D/Dropbox/Bernat/Projects/Webs/singularminds.com/README.rdoc",
+		"/D/Dropbox/Bernat/Projects/Webs/singularminds.com/Gemfile",
+		"/D/Dropbox/Bernat/Projects/Webs/singularminds.com/Rakefile",
+		"/D/Dropbox/Bernat/Projects/Webs/singularminds.com/config.ru",
+		"/D/Dropbox/Bernat/Projects/Webs/singularminds.com/.gitignore",
+		"/D/Dropbox/Bernat/Projects/Day9/RedBullLan/web_thread/final.html",
+		"/C/Users/kotoc/Desktop/KTools/app/models/shot.rb",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/heads/admin-head.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/models/admin_row.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/rows/admin-row.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/admin_rows.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/less/style.less",
+		"/C/Users/kotoc/Desktop/KTools/app/views/index/index.jade",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/application_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/edl_template.rb",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/admin_rows_manager.coffee",
+		"/C/Users/kotoc/Desktop/KTools/app/models/phase_type.rb",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/models/phase.coffee",
+		"/C/Users/kotoc/Desktop/KTools/app/models/phase.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/phases_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/table_heads_manager.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/departments/admin_view.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/phase.jade",
+		"/C/Users/kotoc/Desktop/KTools/app/models/task.rb",
+		"/C/Users/kotoc/Desktop/KTools/public/less/style-global.less",
+		"/C/Users/kotoc/Desktop/KTools/public/less/style-ktools.less",
+		"/C/Users/kotoc/Desktop/KTools/public/css/style.css",
+		"/C/Users/kotoc/Desktop/KTools/public/app/main.js",
+		"/C/Users/kotoc/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/app.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/rows/anim-row.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app/libs/spine/modules/manager.js",
+		"/C/Users/kotoc/Desktop/KTools/public/app/libs/spine/spine.js",
+		"/C/Users/kotoc/Desktop/KTools/public/app/controllers/sections/sectionsStack.js",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/admin_phase.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/rows.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/rows_manager.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/sectionsStack.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/heads/anim-head.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/heads/music-head.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/rows/music-row.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app/libs/spine/modules/list.js",
+		"/C/Users/kotoc/Desktop/KTools/app/views/conversation_frames/index.html.erb",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/base_table.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/views.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/sections/departments/anim.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/base/header.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/base/headerController.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/rows",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/departments/audio_view.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/departments/anim_view.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/tasks.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/departments/music_view.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/departments/render_view.coffee",
+		"/C/Users/kotoc/Desktop/KTools/db/schema.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/tasks_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/models/task_animation.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/task_animations_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/task_audios_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/task_layouts_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/task_models_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/task_productions_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/task_renders_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/controllers/task_types_controller.rb",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/anim-row.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/models/task_audio.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/models/task_animation.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/phases.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/models/row.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/models/task.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/tables/base-table.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app/controllers/elements/rows_manager.js",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/heads_manager.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/departments",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/music_view.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/elements/anim_view.coffee",
+		"/C/Users/kotoc/Documents/maya/2009-x64/scripts/KTC_disco-1.mel",
+		"/X/KTC_disco.mel",
+		"/C/Users/kotoc/Desktop/KTools/config/routes.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/models/user.rb",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/roles.coffee",
+		"/C/Users/kotoc/AppData/Roaming/Sublime Text 2/Packages/BernatColorScheme/BernatColorScheme.tmTheme",
+		"/C/Users/kotoc/Desktop/KTools/Ktools.sublime-workspace",
+		"/C/Users/kotoc/Desktop/KTools/Ktools.sublime-project",
+		"/C/Users/kotoc/Desktop/KTools/Gemfile.lock",
+		"/X/sublime/Packages/User/Less.sublime-build",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/views/sections/projects.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/sections.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/projects.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/seasons.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sections/episodes.coffee",
+		"/C/Users/kotoc/Desktop/KTools/app/views/index/index.html",
+		"/C/Users/kotoc/Desktop/KTools/Gemfile",
+		"/C/Users/kotoc/Desktop/KTools/config/application.rb",
+		"/C/Users/kotoc/Desktop/KTools/app/views/layouts/application.html.erb",
+		"/C/Users/kotoc/Desktop/KTools/public/app/controllers/base/headerController.js",
+		"/C/Users/kotoc/Desktop/KTools/public/index.jade",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/sequences.coffee",
+		"/C/Users/kotoc/Desktop/KTools/public/app-raw/controllers/episode_sequences.coffee"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\BernatFortet\\AppData\\Roaming\\Sublime Text 2,C:\\Program Files\\Sublime Text 2",
+			"C:\\Users\\BernatFortet\\AppData\\Roaming\\Sublime Text 2"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"antialiased",
+			"author_id",
+			"url:",
+			"aka",
+			"tbd",
+			"80%",
+			"ts",
+			".fs",
+			"gradient",
+			"e0e0e0",
+			"gradient(#fafafa, #e0e0e0",
+			"gradient(#fafafa, #e0e0e0,",
+			"gradient",
+			".bs",
+			"frames",
+			"fremes",
+			"frames",
+			".phase-cell",
+			"render",
+			"th",
+			"OnFetchedData",
+			"each",
+			"3",
+			"delegate",
+			".on(",
+			"events",
+			"taskUnpublished",
+			"th",
+			"td",
+			"Red Bull Open House",
+			"day1",
+			"#Thread p",
+			"violet",
+			"h2",
+			"tbd",
+			"task_user",
+			"task",
+			"ttask",
+			",",
+			"'    }",
+			"fetch",
+			"refresh",
+			"ajax",
+			"fetch",
+			"task",
+			"sass",
+			"lessc",
+			"td",
+			"de",
+			"delay",
+			"app/",
+			"app",
+			".js",
+			"login",
+			"\n\n@user = current_user\nunless current_user\n  flash[:error] = 'You must be logeed in'\n  rediret_to root_path\nend",
+			"bcrypt",
+			"h2",
+			"he",
+			"astro",
+			"#Thread .info .two-col .col2, #Thread .info .two-col .col2 p",
+			"TSLsectionheader ",
+			"</style",
+			".gn",
+			"}",
+			".col1 p",
+			"two-col .col1 p",
+			"cream",
+			"addClass",
+			"Person",
+			"addOne",
+			"Person",
+			"Convers",
+			"avatar",
+			".bold;",
+			"elements",
+			"Controller",
+			"proxy",
+			"el",
+			"how",
+			"sidebar",
+			"Comments",
+			"kjadsñlfjaslkdjf",
+			"fx",
+			"kjadsñlfjaslkdjf",
+			"row",
+			"button",
+			"quoted",
+			"String",
+			".bs",
+			".col",
+			"gn",
+			"medium",
+			"Medium",
+			"View",
+			"icon",
+			"upcase",
+			"hidden",
+			"Shift+tab",
+			"tab",
+			"loader",
+			"ctrl+shift+v",
+			"wrap",
+			"columns",
+			"scroll",
+			"lighten",
+			"border",
+			"background",
+			"lighten",
+			"white",
+			"background",
+			"border",
+			"hover",
+			"	",
+			"groups",
+			"wrap",
+			"color",
+			"[\"shift+s",
+			"ctrl+s",
+			"ctrl`+s",
+			"padding",
+			"ç",
+			"padding",
+			"\\b",
+			"bac",
+			"Packages/CSSas",
+			"CSSas"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".phase.Phase",
+			"td",
+			".cell",
+			"",
+			"public/app",
+			"public/",
+			"",
+			"Shot",
+			"Notification",
+			"Notification\nNotification\nNotification",
+			"anim",
+			"row-modeling\nrow-modeling",
+			"th\nth",
+			"th\n",
+			"Thin",
+			"Thing"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/Dropbox/Bernat/Projects/Webs/singularminds.com/projectSingularMinds.sublime-project",
+					"settings":
+					{
+						"buffer_size": 499,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.jade",
+					"settings":
+					{
+						"buffer_size": 1787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "less/style-global.less",
+					"settings":
+					{
+						"buffer_size": 7920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "less/reset.less",
+					"settings":
+					{
+						"buffer_size": 3246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1510,
+								1510
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 567.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"shot",
+				"app/models/shot.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"adminhead",
+				"public/app-raw/views/tables/heads/admin-head.jade"
+			],
+			[
+				"adminrow",
+				"public/app-raw/views/tables/rows/admin-row.jade"
+			],
+			[
+				"style",
+				"public/less/style.less"
+			],
+			[
+				"admin_rows",
+				"public/app-raw/controllers/elements/admin_rows.coffee"
+			],
+			[
+				"admin_row",
+				"public/app-raw/models/admin_row.coffee"
+			],
+			[
+				"application_co",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"index.jad",
+				"app/views/index/index.jade"
+			],
+			[
+				"adminrowjad",
+				"public/app-raw/views/tables/rows/admin-row.jade"
+			],
+			[
+				"phasetype",
+				"app/models/phase_type.rb"
+			],
+			[
+				"phaser",
+				"app/models/phase.rb"
+			],
+			[
+				"phase_con",
+				"app/controllers/phases_controller.rb"
+			],
+			[
+				"manager",
+				"public/app-raw/controllers/elements/admin_rows_manager.coffee"
+			],
+			[
+				"adminrows.co",
+				"public/app-raw/controllers/elements/admin_rows.coffee"
+			],
+			[
+				"phase.cof",
+				"public/app-raw/models/phase.coffee"
+			],
+			[
+				"phase.jade",
+				"public/app-raw/views/tables/phase.jade"
+			],
+			[
+				"phase.rb",
+				"app/models/phase.rb"
+			],
+			[
+				"taskrb",
+				"app/models/task.rb"
+			],
+			[
+				"adminrows",
+				"public/app-raw/controllers/elements/admin_rows.coffee"
+			],
+			[
+				"index.j",
+				"app/views/index/index.jade"
+			],
+			[
+				"tableh",
+				"public/app-raw/controllers/elements/table_heads_manager.coffee"
+			],
+			[
+				"adminrowsma",
+				"public/app-raw/controllers/elements/admin_rows_manager.coffee"
+			],
+			[
+				"admin",
+				"public/app-raw/controllers/sections/departments/admin_view.coffee"
+			],
+			[
+				"rows",
+				"public/app-raw/controllers/elements/admin_rows.coffee"
+			],
+			[
+				"global",
+				"public/less/style-global.less"
+			],
+			[
+				"style.css",
+				"public/css/style.css"
+			],
+			[
+				"main",
+				"public/app/main.js"
+			],
+			[
+				"app",
+				"public/app-raw/controllers/app.coffee"
+			],
+			[
+				"styl",
+				"public/less/style.less"
+			],
+			[
+				"adminrowjade",
+				"public/app-raw/views/tables/rows/admin-row.jade"
+			],
+			[
+				"style.es",
+				"public/less/style.less"
+			],
+			[
+				"admin-head",
+				"public/app-raw/views/tables/heads/admin-head.jade"
+			],
+			[
+				"style.les",
+				"public/less/style.less"
+			],
+			[
+				"manage",
+				"public/app/libs/spine/modules/manager.js"
+			],
+			[
+				"spine",
+				"public/app/libs/spine/spine.js"
+			],
+			[
+				"stacks",
+				"public/app/controllers/sections/sectionsStack.js"
+			],
+			[
+				"adminrowscof",
+				"public/app-raw/controllers/elements/admin_rows.coffee"
+			],
+			[
+				"adminwro",
+				"public/app-raw/controllers/elements/admin_rows_manager.coffee"
+			],
+			[
+				"animrow",
+				"public/app-raw/views/tables/rows/anim-row.jade"
+			],
+			[
+				"phasea",
+				"public/app-raw/views/tables/admin_phase.jade"
+			],
+			[
+				"adminph",
+				"public/app-raw/views/tables/admin_phase.jade"
+			],
+			[
+				"hase.ja",
+				"public/app-raw/views/tables/phase.jade"
+			],
+			[
+				"rows.cof",
+				"public/app-raw/controllers/elements/rows.coffee"
+			],
+			[
+				"anim",
+				"public/app-raw/views/tables/rows/anim-row.jade"
+			],
+			[
+				"phase.jad",
+				"public/app-raw/views/tables/phase.jade"
+			],
+			[
+				"rowsma",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"jade",
+				"app/views/index/index.jade"
+			],
+			[
+				"sections",
+				"public/app-raw/controllers/sections/sectionsStack.coffee"
+			],
+			[
+				"adminha",
+				"public/app-raw/views/tables/heads/admin-head.jade"
+			],
+			[
+				"list.js",
+				"public/app/libs/spine/modules/list.js"
+			],
+			[
+				"rows_mana",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"spine.js",
+				"public/app/libs/spine/spine.js"
+			],
+			[
+				"rowsman",
+				"public/app-raw/controllers/elements/admin_rows_manager.coffee"
+			],
+			[
+				"adminv",
+				"public/app-raw/controllers/sections/departments/admin_view.coffee"
+			],
+			[
+				"stac",
+				"public/app-raw/controllers/sections/sectionsStack.coffee"
+			],
+			[
+				"rowsm",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"basetab",
+				"public/app-raw/controllers/elements/base_table.coffee"
+			],
+			[
+				"admin_vie",
+				"public/app-raw/controllers/sections/departments/admin_view.coffee"
+			],
+			[
+				"index.jd",
+				"app/views/index/index.jade"
+			],
+			[
+				"phasetyp",
+				"app/models/phase_type.rb"
+			],
+			[
+				"header.jad",
+				"public/app-raw/views/base/header.jade"
+			],
+			[
+				"header",
+				"public/app-raw/controllers/base/headerController.coffee"
+			],
+			[
+				"stack",
+				"public/app-raw/controllers/sections/sectionsStack.coffee"
+			],
+			[
+				"baset",
+				"public/app-raw/controllers/elements/base_table.coffee"
+			],
+			[
+				"audio",
+				"public/app-raw/controllers/sections/departments/audio_view.coffee"
+			],
+			[
+				"tasks.coff",
+				"public/app-raw/controllers/tasks.coffee"
+			],
+			[
+				"base",
+				"public/app-raw/controllers/elements/base_table.coffee"
+			],
+			[
+				"audiov",
+				"public/app-raw/controllers/sections/departments/audio_view.coffee"
+			],
+			[
+				"music",
+				"public/app-raw/controllers/sections/departments/music_view.coffee"
+			],
+			[
+				"animview",
+				"public/app-raw/controllers/sections/departments/anim_view.coffee"
+			],
+			[
+				"rowsmana",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"phase_co",
+				"app/controllers/phases_controller.rb"
+			],
+			[
+				"task.rb",
+				"app/models/task.rb"
+			],
+			[
+				"phase.r",
+				"app/models/phase.rb"
+			],
+			[
+				"phase",
+				"public/app-raw/models/phase.coffee"
+			],
+			[
+				"rendervie",
+				"public/app-raw/controllers/sections/departments/render_view.coffee"
+			],
+			[
+				"headerj",
+				"public/app-raw/views/base/header.jade"
+			],
+			[
+				"headercontr",
+				"public/app-raw/controllers/base/headerController.coffee"
+			],
+			[
+				"spine.j",
+				"public/app/libs/spine/spine.js"
+			],
+			[
+				"task_anima",
+				"app/controllers/task_animations_controller.rb"
+			],
+			[
+				"task_con",
+				"app/controllers/tasks_controller.rb"
+			],
+			[
+				"row.jad",
+				"public/app-raw/views/tables/anim-row.jade"
+			],
+			[
+				"rows_ma",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"app.co",
+				"public/app-raw/controllers/app.coffee"
+			],
+			[
+				"rows.co",
+				"public/app-raw/controllers/elements/rows.coffee"
+			],
+			[
+				"phase.co",
+				"public/app-raw/models/phase.coffee"
+			],
+			[
+				"phase.ja",
+				"public/app-raw/views/tables/phase.jade"
+			],
+			[
+				"phases",
+				"public/app-raw/controllers/phases.coffee"
+			],
+			[
+				"sectionsst",
+				"public/app-raw/controllers/sections/sectionsStack.coffee"
+			],
+			[
+				"musicview",
+				"public/app-raw/controllers/sections/departments/music_view.coffee"
+			],
+			[
+				"row.co",
+				"public/app-raw/models/row.coffee"
+			],
+			[
+				"task.co",
+				"public/app-raw/models/task.coffee"
+			],
+			[
+				"tablejade",
+				"public/app-raw/views/tables/base-table.jade"
+			],
+			[
+				"rowscoff",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"tablehead",
+				"public/app-raw/controllers/elements/table_heads_manager.coffee"
+			],
+			[
+				"headcoffe",
+				"public/app-raw/controllers/elements/heads_manager.coffee"
+			],
+			[
+				"app.",
+				"public/app-raw/controllers/app.coffee"
+			],
+			[
+				"tasks.rb",
+				"app/controllers/tasks_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"task.c",
+				"public/app-raw/models/task.coffee"
+			],
+			[
+				"rowscof",
+				"public/app-raw/controllers/elements/rows.coffee"
+			],
+			[
+				"roscof",
+				"public/app-raw/controllers/roles.coffee"
+			],
+			[
+				"phasecof",
+				"public/app-raw/controllers/phases.coffee"
+			],
+			[
+				"rowcof",
+				"public/app-raw/models/row.coffee"
+			],
+			[
+				"rowsmangcof",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"sectionstacco",
+				"public/app-raw/controllers/sections/sectionsStack.coffee"
+			],
+			[
+				"sectionss",
+				"public/app/controllers/sections/sectionsStack.js"
+			],
+			[
+				"appcoffe",
+				"public/app-raw/controllers/app.coffee"
+			],
+			[
+				"rowmanagercof",
+				"public/app-raw/controllers/elements/rows_manager.coffee"
+			],
+			[
+				"phases.c",
+				"public/app-raw/controllers/phases.coffee"
+			],
+			[
+				"rows.",
+				"public/app-raw/controllers/elements/rows.coffee"
+			],
+			[
+				"style.",
+				"public/less/style.less"
+			],
+			[
+				"section.co",
+				"public/app-raw/controllers/sections/sections.coffee"
+			],
+			[
+				"projects.co",
+				"public/app-raw/controllers/sections/projects.coffee"
+			],
+			[
+				"basetableco",
+				"public/app-raw/controllers/elements/base_table.coffee"
+			],
+			[
+				"index.html",
+				"app/views/index/index.html"
+			],
+			[
+				"application.html",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"index.htm",
+				"app/views/index/index.html"
+			],
+			[
+				"headerc",
+				"public/app-raw/controllers/base/headerController.coffee"
+			],
+			[
+				"headers",
+				"public/app/controllers/base/headerController.js"
+			],
+			[
+				"index",
+				"app/views/index/index.jade"
+			],
+			[
+				"main.js",
+				"public/app/main.js"
+			],
+			[
+				"tasks_c",
+				"app/controllers/tasks_controller.rb"
+			],
+			[
+				"sed",
+				"app/views/seasons/edit.html.erb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"shot.rb",
+				"app/models/shot.rb"
+			],
+			[
+				"user.r",
+				"app/models/user.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/Dropbox/Bernat/Projects/Webs/cazerolo.com/public/Cacerolo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}

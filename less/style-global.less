@@ -12,6 +12,8 @@
 	.fixed{ position:fixed;}
 	.overflow{ overflow:hidden;}
 	.ib{ display:inline-block;}
+	.fl{ float:left;}
+	.fr{ float:right;}
 
 //Behaviours =======================================================
 
@@ -90,11 +92,16 @@
 		.lowcase{ text-transform:lowercase;}
 		.ignorecase{ text-transform:none;}
 		.tcenter{ text-align:center;}
+		.hyphen{ -hyphens: auto; -moz-hyphens: auto; -webkit-hyphens: auto;}
 
 		// Font stacks
 		@serif: "Georgia", Cambria, "Times New Roman", Times, serif;
 		@sans-serif: "Helvetica Neue", "HelveticaNeue", helvetica, sans-serif;
 		@monospace: Monaco, Consolas, monospace;
+
+
+	//Icons =============================================================
+		.icon-16{ width:16px; height:16px; display:inline-block; background-image:url("../images/sprite.png"); background-repeat:no-repeat; }
 
 	//FX ===================================================================
 
@@ -121,6 +128,14 @@
 			-webkit-border-radius: @radius;
 		}
 
+
+		//Text Shadow -- .bs(10px, #000, inset, 10px, 1px )
+		.ts( @params){
+			-webkit-text-shadow:@params;
+			   -moz-text-shadow:@params;
+					text-shadow:@params;
+		}
+
 		//Box Shadow -- .bs(10px, #000, inset, 10px, 1px )
 		.bs( @params){
 			-webkit-box-shadow:@params;
@@ -141,10 +156,10 @@
 		}
 
 		//Gradient
-		.gradient( @lightColor: #c6ff00, @darkColor: #93bd00 ){
+		.gradient( @lightColor: #c6ff00, @darkColor: #93bd00, @location: 100% ){
 			background:@lightColor; /*Fallback*/
-			background:-webkit-linear-gradient(bottom, @darkColor, @lightColor); /* for webkit browsers */
-			background:-moz-linear-gradient(bottom, @darkColor, @lightColor) /* for firefox 3.6+ */;
+			background:-webkit-linear-gradient(bottom, @darkColor, @lightColor @location); /* for webkit browsers */
+			background:-moz-linear-gradient(bottom, @darkColor, @lightColor @location) /* for firefox 3.6+ */;
 		}
 		.gradient-hor( @baseColor: @orange, @darkColor: darken( @orange, 20% ) ){
 				background:@baseColor; /*Fallback*/
