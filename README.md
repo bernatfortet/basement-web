@@ -1,4 +1,4 @@
 basement
 ========
 
-Bernat Fortet&#39;s Basement FrontEnd Boilerplate
+Bernat Fortet -  Basement FrontEnd Boilerplate
