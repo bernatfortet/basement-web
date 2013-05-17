@@ -192,22 +192,22 @@
 		.icon-16{ width:16px; height:16px; overflow:hidden; display:inline-block; vertical-align:top; background-image:url("../images/sprite.png"); background-repeat: no-repeat; text-indent:-9999px;}
 
 		/*== TRANSITIONS ==*/
-		.anim(@speed: 100ms, @speedHover: 0ms){
-			-webkit-transition-property:all;   -webkit-transition-duration: @speed;    -webkit-transition-timing-function: linear;
-		 	   -moz-transition-property:all;      -moz-transition-duration: @speed;       -moz-transition-timing-function: linear;
-		 	    -ms-transition-property:all;       -ms-transition-duration: @speed;        -ms-transition-timing-function: linear;
-		 	     -o-transition-property:all;        -o-transition-duration: @speed;         -o-transition-timing-function: linear;
-		 	        transition-property:all;           transition-duration: @speed;            transition-timing-function: linear;
+		.anim(@speed: 100ms, @speedHover: 0ms, @function: linear){
+			-webkit-transition-property:all;   -webkit-transition-duration: @speed;    -webkit-transition-timing-function: @function;
+		 	   -moz-transition-property:all;      -moz-transition-duration: @speed;       -moz-transition-timing-function: @function;
+		 	    -ms-transition-property:all;       -ms-transition-duration: @speed;        -ms-transition-timing-function: @function;
+		 	     -o-transition-property:all;        -o-transition-duration: @speed;         -o-transition-timing-function: @function;
+		 	        transition-property:all;           transition-duration: @speed;            transition-timing-function: @function;
 
 			&:hover{
-				-webkit-transition-property:all; -webkit-transition-duration: @speed+@speedHover+50; -webkit-transition-timing-function: linear;
-				   -moz-transition-property:all; -webkit-transition-duration: @speed+@speedHover+50; -webkit-transition-timing-function: linear;
-					-ms-transition-property:all;     -ms-transition-duration: @speed+@speedHover+50;     -ms-transition-timing-function: linear;
-					 -o-transition-property:all;      -o-transition-duration: @speed+@speedHover+50;      -o-transition-timing-function: linear;
-						transition-property:all;         transition-duration: @speed+@speedHover+50;         transition-timing-function: linear;
+				-webkit-transition-property:all; -webkit-transition-duration: @speed+@speedHover+50; -webkit-transition-timing-function: @function;
+				   -moz-transition-property:all; -webkit-transition-duration: @speed+@speedHover+50; -webkit-transition-timing-function: @function;
+					-ms-transition-property:all;     -ms-transition-duration: @speed+@speedHover+50;     -ms-transition-timing-function: @function;
+					 -o-transition-property:all;      -o-transition-duration: @speed+@speedHover+50;      -o-transition-timing-function: @function;
+						transition-property:all;         transition-duration: @speed+@speedHover+50;         transition-timing-function: @function;
 			}
 		}
-
+		
 	//Clearfix
 	.clearfix:before, .clearfix:after {  content: "\0020"; display: block; height: 0; visibility: hidden;	 }
 	.clearfix:after { clear: both; }
