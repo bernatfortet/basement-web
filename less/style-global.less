@@ -176,12 +176,25 @@
 			   -moz-box-shadow:@params;
 					box-shadow:@params;
 		}
-
+		
 		.bg-size( @params ){
 			-webkit-background-size:@params;
 			   -moz-background-size:@params;
 				 -o-background-size:@params;
 					background-size:@params;
+		}
+
+		.placeholderColor( @color ){
+			::-webkit-input-placeholder { color:@color; }
+				 :-ms-input-placeholder { color:@color; }
+					  :-moz-placeholder { color:@color; }
+					 ::-moz-placeholder { color:@color; }
+		}
+
+		.appearance( @params ){
+			-webkit-appearance:@params;
+			   -moz-appearance:@params;
+				    appearance:@params;
 		}
 
 		//Gradient
